@@ -1,0 +1,2 @@
+https://developers.google.com/public-data/docs/canonical/countries_csv
+https://covid19.who.int/info/

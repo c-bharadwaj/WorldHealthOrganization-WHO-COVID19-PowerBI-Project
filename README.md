@@ -8,9 +8,7 @@ The dashboard contains two pages:
 
 Tooltips have been used to make the report more dynamic.
 
-Note: Currently the data points on the map are not populating with the latitude and longitude. I am currently looking into this and will be updating the fixed version soon.
-
-DATA:
+##### DATA:
 
 ##### The source data used is the WHO .csv file web link : https://covid19.who.int/info/
 Since the direct link has been used, the numbers update automatically and show the most recent numbers.

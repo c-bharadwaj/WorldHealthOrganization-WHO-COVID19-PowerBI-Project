@@ -1,3 +1,7 @@
+##### View the report here:
+
+https://app.powerbi.com/reportEmbed?reportId=3bb68329-533f-4a3e-81da-6c113e90e1c5&autoAuth=true&ctid=c31cb407-17a5-47bc-b71a-b1eb82602055&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+
 ##### About this project:
 
 This COVID19 Dashboard provides a comprehensive overview on the current status of the pandemic, with data sourced from the World Health Organization (WHO).

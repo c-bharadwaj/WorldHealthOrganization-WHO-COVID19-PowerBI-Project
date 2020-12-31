@@ -1,6 +1,6 @@
 ##### View the report here:
 
-https://app.powerbi.com/reportEmbed?reportId=3bb68329-533f-4a3e-81da-6c113e90e1c5&autoAuth=true&ctid=c31cb407-17a5-47bc-b71a-b1eb82602055&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWNhbmFkYS1jZW50cmFsLWItcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiNjdiODBlMDktMmE1My00NmJjLWI5ZDItMTg3YWE2N2VjMDczIiwidCI6ImMzMWNiNDA3LTE3YTUtNDdiYy1iNzFhLWIxZWI4MjYwMjA1NSJ9&embedImagePlaceholder=true&pageName=ReportSection6742721a9ad903ed302a
 
 ##### About this project:
 
